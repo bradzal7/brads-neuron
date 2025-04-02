@@ -1,0 +1,39 @@
+{
+  "name": "brads-neuron",
+  "version": "1.0.0",
+  "description": "Neuron Log - A personal Second Brain for structured daily reflections",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradzal7/brads-neuron.git"
+  },
+  "keywords": ["neuron", "log", "second brain", "reflections"],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/bradzal7/brads-neuron/issues"
+  },
+  "homepage": "https://github.com/bradzal7/brads-neuron#readme",
+  "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.10.0",
+    "@supabase/ssr": "^0.6.1",
+    "@supabase/supabase-js": "^2.49.4",
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.1",
+    "autoprefixer": "^10.4.21",
+    "next": "^15.2.4",
+    "postcss": "^8.5.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.1",
+    "typescript": "^5.8.2"
+  }
+}
