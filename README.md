@@ -105,3 +105,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Brads Neuron
+
+A personal knowledge management and reflection tool.
+
+## Testing GitHub Authentication
+
+This line was added to test GitHub authentication.
